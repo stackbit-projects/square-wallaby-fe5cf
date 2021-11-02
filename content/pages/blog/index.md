@@ -1,5 +1,5 @@
 ---
-title: Blog post pagesadas
+title: Blog post
 layout: PageLayout
 sections:
   - type: FeaturedPostsSection
